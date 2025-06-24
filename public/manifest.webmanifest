@@ -1,0 +1,9 @@
+{
+  "name": "Pura Vida",
+  "short_name": "Pura Vida",
+  "description": "Spread positivity on Nostr with simple PV replies",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#22c55e"
+}
